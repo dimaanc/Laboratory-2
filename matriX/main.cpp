@@ -1,7 +1,7 @@
 #include <iostream>
 
 #include "MoiVectoR.h"
-#include "Matrix.h"
+#include "matrix.h"
 
 int main()
 {
