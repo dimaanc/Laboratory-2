@@ -1,6 +1,6 @@
 #include <iostream>
 
-#include "MyVector.h"
+#include "MoiVectoR.h"
 #include "Matrix.h"
 
 int main()
