@@ -1,7 +1,7 @@
 #include "MoiVectoR.h"
 
 #include <gtest.h>
-#include "Matrix.h"
+#include "matrix.h"
 
 TEST(TMatrix, can_create_matrix) {
   ASSERT_NO_THROW(TMatrix<int>(3));
